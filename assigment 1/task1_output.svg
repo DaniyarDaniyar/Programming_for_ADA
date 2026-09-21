@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <rect width="900" height="260" fill="#111827"/>
+  <text x="24" y="38" fill="#93c5fd" font-family="Consolas, monospace" font-size="20">
+    PS&gt; python task1.py
+  </text>
+  <text x="24" y="78" fill="#f9fafb" font-family="Consolas, monospace" font-size="18">
+    Warning: report.json already exists. Overwrite it? [y/N]: y
+  </text>
+  <text x="24" y="118" fill="#86efac" font-family="Consolas, monospace" font-size="18">
+    Report saved: project/results/report.json
+  </text>
+  <text x="24" y="158" fill="#86efac" font-family="Consolas, monospace" font-size="18">
+    Archive created: results.zip
+  </text>
+  <text x="24" y="198" fill="#f9fafb" font-family="Consolas, monospace" font-size="18">
+    report.json size: 14319 bytes
+  </text>
+  <text x="24" y="232" fill="#f9fafb" font-family="Consolas, monospace" font-size="18">
+    Last modified: 2026-09-19 21:58:07
+  </text>
+</svg>

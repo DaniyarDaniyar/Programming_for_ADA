@@ -1,0 +1,752 @@
+[
+  {
+    "full_name": "Shomanov Ayaulym",
+    "group": "CS-23-01",
+    "average": 73.0
+  },
+  {
+    "full_name": "Sadykova Moldir",
+    "group": "CS-23-02",
+    "average": 68.8
+  },
+  {
+    "full_name": "Sadykova Aliya",
+    "group": "CS-23-03",
+    "average": 76.4
+  },
+  {
+    "full_name": "Imanbekov Yerlan",
+    "group": "AI-24-01",
+    "average": 72.8
+  },
+  {
+    "full_name": "Nurmaganbet Temirlan",
+    "group": "AI-24-02",
+    "average": 71.6
+  },
+  {
+    "full_name": "Kydyr Dana",
+    "group": "SE-22-01",
+    "average": 73.4
+  },
+  {
+    "full_name": "Mukan Ayaulym",
+    "group": "SE-22-02",
+    "average": 75.6
+  },
+  {
+    "full_name": "Turganbek Temirlan",
+    "group": "CS-23-01",
+    "average": 85.4
+  },
+  {
+    "full_name": "Zhaksylykov Karina",
+    "group": "CS-23-02",
+    "average": 78.6
+  },
+  {
+    "full_name": "Mukan Rustem",
+    "group": "CS-23-03",
+    "average": 76.4
+  },
+  {
+    "full_name": "Ilyasov Sanzhar",
+    "group": "AI-24-01",
+    "average": 74.2
+  },
+  {
+    "full_name": "Mansurova Karina",
+    "group": "AI-24-02",
+    "average": 79.0
+  },
+  {
+    "full_name": "Nurmaganbet Madi",
+    "group": "SE-22-01",
+    "average": 77.2
+  },
+  {
+    "full_name": "Kapanova Aigerim",
+    "group": "SE-22-02",
+    "average": 82.0
+  },
+  {
+    "full_name": "Kapanova Bibigul",
+    "group": "CS-23-01",
+    "average": 83.4
+  },
+  {
+    "full_name": "Ilyasov Aigerim",
+    "group": "CS-23-02",
+    "average": 77.8
+  },
+  {
+    "full_name": "Tleubayeva Yerkebulan",
+    "group": "CS-23-03",
+    "average": 78.4
+  },
+  {
+    "full_name": "Sadykova Moldir",
+    "group": "AI-24-01",
+    "average": 76.8
+  },
+  {
+    "full_name": "Kydyr Aliya",
+    "group": "AI-24-02",
+    "average": 79.6
+  },
+  {
+    "full_name": "Ilyasov Altynai",
+    "group": "SE-22-01",
+    "average": 77.8
+  },
+  {
+    "full_name": "Abdullayev Damir",
+    "group": "SE-22-02",
+    "average": 81.6
+  },
+  {
+    "full_name": "Yessimov Bibigul",
+    "group": "CS-23-01",
+    "average": 80.8
+  },
+  {
+    "full_name": "Rakhimzhanov Rustem",
+    "group": "CS-23-02",
+    "average": 82.4
+  },
+  {
+    "full_name": "Omarov Anel",
+    "group": "CS-23-03",
+    "average": 83.0
+  },
+  {
+    "full_name": "Sadykova Sanzhar",
+    "group": "AI-24-01",
+    "average": 83.0
+  },
+  {
+    "full_name": "Yeszhanov Bibigul",
+    "group": "AI-24-02",
+    "average": 71.0
+  },
+  {
+    "full_name": "Kapanova Damir",
+    "group": "SE-22-01",
+    "average": 68.0
+  },
+  {
+    "full_name": "Imanbekov Dana",
+    "group": "SE-22-02",
+    "average": 76.8
+  },
+  {
+    "full_name": "Batyrbek Serik",
+    "group": "CS-23-01",
+    "average": 79.0
+  },
+  {
+    "full_name": "Shomanov Samat",
+    "group": "CS-23-02",
+    "average": 76.2
+  },
+  {
+    "full_name": "Ilyasov Ayaulym",
+    "group": "CS-23-03",
+    "average": 74.4
+  },
+  {
+    "full_name": "Sadykova Aidos",
+    "group": "AI-24-01",
+    "average": 77.8
+  },
+  {
+    "full_name": "Myrzakhmet Yerkebulan",
+    "group": "AI-24-02",
+    "average": 83.2
+  },
+  {
+    "full_name": "Batyrbek Rustem",
+    "group": "SE-22-01",
+    "average": 80.0
+  },
+  {
+    "full_name": "Mansurova Moldir",
+    "group": "SE-22-02",
+    "average": 74.4
+  },
+  {
+    "full_name": "Smailova Adil",
+    "group": "CS-23-01",
+    "average": 83.8
+  },
+  {
+    "full_name": "Turganbek Aidos",
+    "group": "CS-23-02",
+    "average": 69.4
+  },
+  {
+    "full_name": "Zhussupov Dana",
+    "group": "CS-23-03",
+    "average": 77.6
+  },
+  {
+    "full_name": "Beketov Altynai",
+    "group": "AI-24-01",
+    "average": 75.6
+  },
+  {
+    "full_name": "Kapanova Ardak",
+    "group": "AI-24-02",
+    "average": 72.8
+  },
+  {
+    "full_name": "Batyrbek Arman",
+    "group": "SE-22-01",
+    "average": 72.8
+  },
+  {
+    "full_name": "Turganbek Ayaulym",
+    "group": "SE-22-02",
+    "average": 79.8
+  },
+  {
+    "full_name": "Shomanov Ardak",
+    "group": "CS-23-01",
+    "average": 76.6
+  },
+  {
+    "full_name": "Kapanova Moldir",
+    "group": "CS-23-02",
+    "average": 79.2
+  },
+  {
+    "full_name": "Ilyasov Yerlan",
+    "group": "CS-23-03",
+    "average": 80.0
+  },
+  {
+    "full_name": "Kenzhebay Moldir",
+    "group": "AI-24-01",
+    "average": 77.0
+  },
+  {
+    "full_name": "Zhaksilik Aidos",
+    "group": "AI-24-02",
+    "average": 79.2
+  },
+  {
+    "full_name": "Imanbekov Sanzhar",
+    "group": "SE-22-01",
+    "average": 72.4
+  },
+  {
+    "full_name": "Ilyasov Aigerim",
+    "group": "SE-22-02",
+    "average": 81.0
+  },
+  {
+    "full_name": "Rakhimzhanov Samat",
+    "group": "CS-23-01",
+    "average": 75.0
+  },
+  {
+    "full_name": "Kenzhebay Damir",
+    "group": "CS-23-02",
+    "average": 79.4
+  },
+  {
+    "full_name": "Yessimov Dana",
+    "group": "CS-23-03",
+    "average": 79.6
+  },
+  {
+    "full_name": "Smailova Altynai",
+    "group": "AI-24-01",
+    "average": 81.8
+  },
+  {
+    "full_name": "Myrzakhmet Yerlan",
+    "group": "AI-24-02",
+    "average": 77.8
+  },
+  {
+    "full_name": "Myrzakhmet Zarina",
+    "group": "SE-22-01",
+    "average": 78.0
+  },
+  {
+    "full_name": "Imanbekov Gulnaz",
+    "group": "SE-22-02",
+    "average": 74.0
+  },
+  {
+    "full_name": "Myrzakhmet Karina",
+    "group": "CS-23-01",
+    "average": 78.0
+  },
+  {
+    "full_name": "Abdullayev Rustem",
+    "group": "CS-23-02",
+    "average": 81.4
+  },
+  {
+    "full_name": "Shomanov Aliya",
+    "group": "CS-23-03",
+    "average": 79.2
+  },
+  {
+    "full_name": "Smailova Aknur",
+    "group": "AI-24-01",
+    "average": 79.6
+  },
+  {
+    "full_name": "Zhussupov Moldir",
+    "group": "AI-24-02",
+    "average": 74.0
+  },
+  {
+    "full_name": "Kydyr Anel",
+    "group": "SE-22-01",
+    "average": 83.2
+  },
+  {
+    "full_name": "Nurmaganbet Sanzhar",
+    "group": "SE-22-02",
+    "average": 80.2
+  },
+  {
+    "full_name": "Smailova Anel",
+    "group": "CS-23-01",
+    "average": 78.0
+  },
+  {
+    "full_name": "Seitov Gulnaz",
+    "group": "CS-23-02",
+    "average": 79.6
+  },
+  {
+    "full_name": "Turganbek Adil",
+    "group": "CS-23-03",
+    "average": 77.6
+  },
+  {
+    "full_name": "Sarsembayev Anel",
+    "group": "AI-24-01",
+    "average": 85.6
+  },
+  {
+    "full_name": "Tleubayeva Adil",
+    "group": "AI-24-02",
+    "average": 78.2
+  },
+  {
+    "full_name": "Kapanova Adil",
+    "group": "SE-22-01",
+    "average": 77.8
+  },
+  {
+    "full_name": "Rakhimzhanov Temirlan",
+    "group": "SE-22-02",
+    "average": 81.8
+  },
+  {
+    "full_name": "Kapanova Gulnaz",
+    "group": "CS-23-01",
+    "average": 84.0
+  },
+  {
+    "full_name": "Smailova Temirlan",
+    "group": "CS-23-02",
+    "average": 79.8
+  },
+  {
+    "full_name": "Imanbekov Sanzhar",
+    "group": "CS-23-03",
+    "average": 73.6
+  },
+  {
+    "full_name": "Abdullayev Arman",
+    "group": "AI-24-01",
+    "average": 84.8
+  },
+  {
+    "full_name": "Yeszhanov Damir",
+    "group": "AI-24-02",
+    "average": 79.2
+  },
+  {
+    "full_name": "Kaldybek Ayaulym",
+    "group": "SE-22-01",
+    "average": 76.2
+  },
+  {
+    "full_name": "Kapanova Adil",
+    "group": "SE-22-02",
+    "average": 71.8
+  },
+  {
+    "full_name": "Kenzhebay Madi",
+    "group": "CS-23-01",
+    "average": 75.4
+  },
+  {
+    "full_name": "Kaliyev Aidos",
+    "group": "CS-23-02",
+    "average": 84.4
+  },
+  {
+    "full_name": "Zhussupov Temirlan",
+    "group": "CS-23-03",
+    "average": 75.4
+  },
+  {
+    "full_name": "Smailova Karina",
+    "group": "AI-24-01",
+    "average": 84.4
+  },
+  {
+    "full_name": "Smailova Aruzhan",
+    "group": "AI-24-02",
+    "average": 82.2
+  },
+  {
+    "full_name": "Yeszhanov Karina",
+    "group": "SE-22-01",
+    "average": 88.2
+  },
+  {
+    "full_name": "Nugumanova Anel",
+    "group": "SE-22-02",
+    "average": 73.4
+  },
+  {
+    "full_name": "Sarsembayev Arman",
+    "group": "CS-23-01",
+    "average": 81.4
+  },
+  {
+    "full_name": "Kaldybek Zarina",
+    "group": "CS-23-02",
+    "average": 80.8
+  },
+  {
+    "full_name": "Ilyasov Miras",
+    "group": "CS-23-03",
+    "average": 67.8
+  },
+  {
+    "full_name": "Nugumanova Karina",
+    "group": "AI-24-01",
+    "average": 77.4
+  },
+  {
+    "full_name": "Zhaksilik Yerkebulan",
+    "group": "AI-24-02",
+    "average": 81.4
+  },
+  {
+    "full_name": "Kaliyev Temirlan",
+    "group": "SE-22-01",
+    "average": 78.6
+  },
+  {
+    "full_name": "Akhmetova Sanzhar",
+    "group": "SE-22-02",
+    "average": 77.8
+  },
+  {
+    "full_name": "Zhaksilik Samat",
+    "group": "CS-23-01",
+    "average": 83.4
+  },
+  {
+    "full_name": "Mansurova Yerlan",
+    "group": "CS-23-02",
+    "average": 75.8
+  },
+  {
+    "full_name": "Smailova Altynai",
+    "group": "CS-23-03",
+    "average": 83.2
+  },
+  {
+    "full_name": "Kenzhebay Madi",
+    "group": "AI-24-01",
+    "average": 83.0
+  },
+  {
+    "full_name": "Abdullayev Damir",
+    "group": "AI-24-02",
+    "average": 80.2
+  },
+  {
+    "full_name": "Batyrbek Karina",
+    "group": "SE-22-01",
+    "average": 76.4
+  },
+  {
+    "full_name": "Nurmaganbet Gulnaz",
+    "group": "SE-22-02",
+    "average": 73.8
+  },
+  {
+    "full_name": "Kaldybek Arman",
+    "group": "CS-23-01",
+    "average": 78.6
+  },
+  {
+    "full_name": "Kapanova Rustem",
+    "group": "CS-23-02",
+    "average": 83.4
+  },
+  {
+    "full_name": "Yeszhanov Nuray",
+    "group": "CS-23-03",
+    "average": 75.0
+  },
+  {
+    "full_name": "Zhaksylykov Ardak",
+    "group": "AI-24-01",
+    "average": 79.0
+  },
+  {
+    "full_name": "Yeszhanov Madi",
+    "group": "AI-24-02",
+    "average": 67.4
+  },
+  {
+    "full_name": "Abdullayev Damir",
+    "group": "SE-22-01",
+    "average": 78.0
+  },
+  {
+    "full_name": "Tleubayeva Temirlan",
+    "group": "SE-22-02",
+    "average": 82.6
+  },
+  {
+    "full_name": "Nugumanova Adil",
+    "group": "CS-23-01",
+    "average": 67.6
+  },
+  {
+    "full_name": "Ilyasov Aigerim",
+    "group": "CS-23-02",
+    "average": 83.6
+  },
+  {
+    "full_name": "Nurmaganbet Yerkebulan",
+    "group": "CS-23-03",
+    "average": 77.0
+  },
+  {
+    "full_name": "Omarov Gulnaz",
+    "group": "AI-24-01",
+    "average": 70.0
+  },
+  {
+    "full_name": "Rakhimzhanov Adil",
+    "group": "AI-24-02",
+    "average": 83.2
+  },
+  {
+    "full_name": "Abdullayev Miras",
+    "group": "SE-22-01",
+    "average": 84.2
+  },
+  {
+    "full_name": "Zhussupov Adil",
+    "group": "SE-22-02",
+    "average": 82.4
+  },
+  {
+    "full_name": "Kaldybek Aidos",
+    "group": "CS-23-01",
+    "average": 65.8
+  },
+  {
+    "full_name": "Zhaksilik Yerkebulan",
+    "group": "CS-23-02",
+    "average": 78.8
+  },
+  {
+    "full_name": "Rakhimzhanov Yerkebulan",
+    "group": "CS-23-03",
+    "average": 86.0
+  },
+  {
+    "full_name": "Sarsembayev Sanzhar",
+    "group": "AI-24-01",
+    "average": 83.8
+  },
+  {
+    "full_name": "Mansurova Rustem",
+    "group": "AI-24-02",
+    "average": 75.8
+  },
+  {
+    "full_name": "Yeszhanov Samat",
+    "group": "SE-22-01",
+    "average": 83.8
+  },
+  {
+    "full_name": "Mukan Rustem",
+    "group": "SE-22-02",
+    "average": 68.0
+  },
+  {
+    "full_name": "Kaliyev Anel",
+    "group": "CS-23-01",
+    "average": 80.2
+  },
+  {
+    "full_name": "Mansurova Ardak",
+    "group": "CS-23-02",
+    "average": 76.4
+  },
+  {
+    "full_name": "Smailova Ardak",
+    "group": "CS-23-03",
+    "average": 74.4
+  },
+  {
+    "full_name": "Shomanov Anel",
+    "group": "AI-24-01",
+    "average": 82.4
+  },
+  {
+    "full_name": "Abdullayev Karina",
+    "group": "AI-24-02",
+    "average": 80.0
+  },
+  {
+    "full_name": "Imanbekov Gulnaz",
+    "group": "SE-22-01",
+    "average": 83.2
+  },
+  {
+    "full_name": "Tleubayeva Aidos",
+    "group": "SE-22-02",
+    "average": 79.6
+  },
+  {
+    "full_name": "Kenzhebay Damir",
+    "group": "CS-23-01",
+    "average": 82.4
+  },
+  {
+    "full_name": "Myrzakhmet Aknur",
+    "group": "CS-23-02",
+    "average": 72.0
+  },
+  {
+    "full_name": "Batyrbek Karina",
+    "group": "CS-23-03",
+    "average": 79.6
+  },
+  {
+    "full_name": "Tleubayeva Adil",
+    "group": "AI-24-01",
+    "average": 79.2
+  },
+  {
+    "full_name": "Akhmetova Aigerim",
+    "group": "AI-24-02",
+    "average": 72.4
+  },
+  {
+    "full_name": "Myrzakhmet Temirlan",
+    "group": "SE-22-01",
+    "average": 74.6
+  },
+  {
+    "full_name": "Turganbek Serik",
+    "group": "SE-22-02",
+    "average": 83.6
+  },
+  {
+    "full_name": "Zhaksylykov Nuray",
+    "group": "CS-23-01",
+    "average": 83.4
+  },
+  {
+    "full_name": "Kapanova Madi",
+    "group": "CS-23-02",
+    "average": 76.4
+  },
+  {
+    "full_name": "Batyrbek Madi",
+    "group": "CS-23-03",
+    "average": 86.2
+  },
+  {
+    "full_name": "Mansurova Nuray",
+    "group": "AI-24-01",
+    "average": 76.8
+  },
+  {
+    "full_name": "Tleubayeva Samat",
+    "group": "AI-24-02",
+    "average": 79.2
+  },
+  {
+    "full_name": "Omarov Rustem",
+    "group": "SE-22-01",
+    "average": 75.6
+  },
+  {
+    "full_name": "Imanbekov Arman",
+    "group": "SE-22-02",
+    "average": 86.2
+  },
+  {
+    "full_name": "Imanbekov Nuray",
+    "group": "CS-23-01",
+    "average": 77.6
+  },
+  {
+    "full_name": "Kydyr Miras",
+    "group": "CS-23-02",
+    "average": 78.2
+  },
+  {
+    "full_name": "Zhaksilik Almas",
+    "group": "CS-23-03",
+    "average": 67.2
+  },
+  {
+    "full_name": "Kenzhebay Zarina",
+    "group": "AI-24-01",
+    "average": 72.8
+  },
+  {
+    "full_name": "Imanbekov Aknur",
+    "group": "AI-24-02",
+    "average": 77.8
+  },
+  {
+    "full_name": "Kaldybek Ayaulym",
+    "group": "SE-22-01",
+    "average": 80.6
+  },
+  {
+    "full_name": "Beketov Damir",
+    "group": "SE-22-02",
+    "average": 83.2
+  },
+  {
+    "full_name": "Kaldybek Madi",
+    "group": "CS-23-01",
+    "average": 80.2
+  },
+  {
+    "full_name": "Zhussupov Gulnaz",
+    "group": "CS-23-02",
+    "average": 75.0
+  },
+  {
+    "full_name": "Kaldybek Gulnaz",
+    "group": "CS-23-03",
+    "average": 83.0
+  }
+]
