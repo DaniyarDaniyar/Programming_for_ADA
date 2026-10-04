@@ -1,0 +1,301 @@
+id,price_mln,area_m2,rooms,floor,floors_total,district,residential_complex,built_year,listing_date,price_per_m2,floor_category,area_category,price_category
+1,96.3,122.4,5,11,5,Medeu,Green City,2019.0,2026-07-30,0.7867647058823529,middle,large,business
+2,61.1,41.8,3,6,12,Nauryzbay,Capital Park,2015.0,2026-07-01,1.4617224880382778,middle,small,business
+3,105.2,92.0,5,5,12,Almaly,Comfort,1989.0,2026-09-09,1.1434782608695653,middle,medium,premium
+4,88.2,89.3,4,7,9,Almaly,Capital Park,2017.0,2026-09-17,0.9876819708846585,middle,medium,business
+5,24.9,132.2,4,12,7,Medeu,Sunrise,1983.0,2026-07-10,0.18835098335854766,middle,large,econom
+6,117.4,82.8,5,5,5,Bostandyk,,1992.0,2026-04-11,1.4178743961352658,last,medium,premium
+7,94.9,73.1,3,19,5,Bostandyk,Sunrise,2011.0,2026-06-11,1.2982216142270864,middle,medium,business
+8,97.5,104.9,4,10,12,Almaly,Comfort,1993.0,2026-04-25,0.9294566253574833,middle,large,business
+9,28.5,58.3,2,18,6,Bostandyk,Capital Park,2012.0,2026-06-19,0.4888507718696398,middle,medium,business
+10,62.3,42.5,5,14,20,Bostandyk,Green City,2019.0,2026-08-08,1.4658823529411764,middle,small,business
+11,53.9,84.7,4,7,8,Bostandyk,Capital Park,1982.0,2026-04-10,0.6363636363636364,middle,medium,business
+12,112.3,77.1,4,5,15,Nauryzbay,Green City,1981.0,2026-05-17,1.456549935149157,middle,medium,premium
+13,82.6,54.1,3,15,15,Medeu,,2022.0,2026-01-13,1.5268022181146024,last,medium,business
+14,101.4,70.9,5,7,12,Medeu,Comfort,2002.0,2026-07-18,1.4301833568406206,middle,medium,premium
+15,61.6,70.8,1,5,19,Nauryzbay,,2002.0,2026-05-13,0.8700564971751413,middle,medium,business
+16,38.9,65.9,1,19,6,Bostandyk,Capital Park,2000.0,2026-05-05,0.5902883156297419,middle,medium,business
+17,73.2,72.4,3,10,8,Medeu,Comfort,1999.0,2026-05-24,1.011049723756906,middle,medium,business
+18,21.7,110.7,4,1,9,Auezov,Sunrise,2011.0,2026-02-28,0.1960252935862692,first,large,econom
+19,101.9,62.1,5,10,7,Auezov,Sunrise,2006.0,2026-06-11,1.640901771336554,middle,medium,premium
+20,81.3,143.6,3,10,9,Nauryzbay,Capital Park,1987.0,2026-07-21,0.5661559888579387,middle,large,business
+21,94.6,139.5,4,18,10,Nauryzbay,Sunrise,2008.0,2026-04-05,0.6781362007168459,middle,large,business
+22,52.2,85.1,3,15,17,Medeu,,2010.0,2026-02-05,0.6133960047003526,middle,medium,business
+23,116.9,66.0,5,4,9,Auezov,Green City,1985.0,2026-04-15,1.7712121212121212,middle,medium,premium
+24,108.8,91.9,4,4,19,Nauryzbay,,1996.0,2026-02-23,1.1838955386289445,middle,medium,premium
+25,96.7,131.1,3,13,17,Nauryzbay,Sunrise,2015.0,2026-04-11,0.7376048817696416,middle,large,business
+26,35.4,106.6,5,1,19,Bostandyk,Capital Park,2007.0,2026-06-19,0.3320825515947467,first,large,business
+27,64.0,125.5,1,7,6,Bostandyk,Green City,1986.0,2026-01-31,0.5099601593625498,middle,large,business
+28,19.6,91.6,5,3,20,Nauryzbay,Sunrise,1981.0,2026-07-21,0.21397379912663758,middle,medium,econom
+29,31.2,104.1,1,1,14,Almaly,Comfort,2006.0,2026-03-02,0.29971181556195964,first,large,business
+30,86.7,61.0,2,19,20,Bostandyk,,2000.0,2026-08-30,1.4213114754098362,middle,medium,business
+31,93.2,116.9,5,2,10,Nauryzbay,Green City,2023.0,2026-07-17,0.7972626176218991,middle,large,business
+32,116.6,50.3,4,1,20,Medeu,Capital Park,2003.0,2026-03-15,2.3180914512922466,first,medium,premium
+33,49.2,111.8,5,19,14,Auezov,Green City,2021.0,2026-06-02,0.44007155635062617,middle,large,business
+34,53.9,132.6,4,4,6,Bostandyk,Sunrise,1989.0,2026-01-30,0.40648567119155354,middle,large,business
+35,64.3,41.5,4,17,11,Bostandyk,Capital Park,2002.0,2026-01-27,1.5493975903614456,middle,small,business
+36,34.9,101.8,2,1,7,Nauryzbay,Capital Park,1986.0,2026-09-16,0.3428290766208251,first,large,business
+37,28.6,36.9,1,4,20,Auezov,Comfort,2005.0,2026-08-05,0.7750677506775069,middle,small,business
+38,64.9,115.7,1,3,9,Almaly,Comfort,1988.0,2026-02-11,0.560933448573898,middle,large,business
+39,38.8,35.6,2,15,8,Auezov,,2002.0,2026-03-18,1.089887640449438,middle,small,business
+40,85.3,142.0,1,13,13,Bostandyk,Green City,1995.0,2026-02-23,0.6007042253521127,last,large,business
+41,60.9,42.2,3,10,11,Nauryzbay,Sunrise,1988.0,2026-04-17,1.443127962085308,middle,small,business
+42,102.4,144.9,4,5,6,Medeu,Green City,1984.0,2026-03-20,0.7066942719116632,middle,large,premium
+43,88.5,125.1,5,2,18,Medeu,Green City,2003.0,2026-03-30,0.7074340527577938,middle,large,business
+44,47.8,99.2,3,12,18,Nauryzbay,Sunrise,2022.0,2026-05-23,0.4818548387096774,middle,medium,business
+45,102.4,122.8,5,5,16,Bostandyk,Capital Park,1988.0,2026-02-21,0.8338762214983714,middle,large,premium
+46,99.5,124.4,5,12,14,Auezov,,1998.0,2026-08-27,0.7998392282958199,middle,large,business
+47,55.7,143.3,5,14,11,Almaly,Comfort,1990.0,2026-07-16,0.38869504535938587,middle,large,business
+48,45.3,56.7,3,17,13,Medeu,Comfort,2002.0,2026-07-25,0.7989417989417988,middle,medium,business
+49,86.7,98.8,2,10,13,Medeu,Comfort,1998.0,2026-02-15,0.8775303643724697,middle,medium,business
+50,29.7,36.9,5,1,7,Medeu,Green City,2023.0,2026-07-11,0.8048780487804879,first,small,business
+51,36.0,102.0,2,6,6,Bostandyk,,1991.0,2026-08-14,0.35294117647058826,last,large,business
+52,15.8,46.4,3,18,9,Bostandyk,,1983.0,2026-02-17,0.3405172413793104,middle,small,econom
+53,97.6,95.6,1,11,12,Medeu,Green City,2006.0,2026-07-22,1.0209205020920502,middle,medium,business
+54,84.8,96.6,4,13,7,Auezov,Capital Park,2002.0,2026-04-07,0.8778467908902692,middle,medium,business
+55,89.0,83.2,4,10,6,Nauryzbay,,2024.0,2026-08-01,1.0697115384615383,middle,medium,business
+56,97.0,90.3,1,4,18,Auezov,Capital Park,2019.0,2026-05-10,1.0741971207087486,middle,medium,business
+57,63.2,120.5,2,18,10,Auezov,,2019.0,2026-08-05,0.5244813278008299,middle,large,business
+58,74.7,124.9,3,16,14,Nauryzbay,,2008.0,2026-02-09,0.5980784627702161,middle,large,business
+59,29.7,86.5,3,20,13,Medeu,Capital Park,1996.0,2026-04-16,0.34335260115606936,middle,medium,business
+60,27.0,99.9,5,18,16,Bostandyk,Green City,1999.0,2026-03-15,0.27027027027027023,middle,medium,business
+61,85.2,141.4,2,6,16,Medeu,Sunrise,1986.0,2026-03-09,0.6025459688826026,middle,large,business
+62,64.5,40.0,5,6,9,Bostandyk,Sunrise,1999.0,2026-03-25,1.6125,middle,small,business
+63,74.3,39.6,3,5,18,Auezov,Capital Park,1996.0,2026-04-14,1.876262626262626,middle,small,business
+64,95.3,36.0,5,19,10,Medeu,Capital Park,1981.0,2026-02-04,2.647222222222222,middle,small,business
+65,81.6,107.2,2,12,18,Medeu,Capital Park,1989.0,2026-07-10,0.7611940298507462,middle,large,business
+66,73.1,77.3,1,10,11,Medeu,Green City,2004.0,2026-05-29,0.945666235446313,middle,medium,business
+67,73.7,121.8,1,20,6,Bostandyk,,1996.0,2026-08-12,0.6050903119868637,middle,large,business
+68,46.9,108.9,2,13,17,Bostandyk,Comfort,2024.0,2026-07-10,0.4306703397612488,middle,large,business
+69,18.2,66.7,5,19,5,Medeu,Green City,2001.0,2026-02-10,0.272863568215892,middle,medium,econom
+70,60.9,137.3,1,20,17,Medeu,Sunrise,2023.0,2026-01-19,0.4435542607428987,middle,large,business
+71,37.5,120.3,2,2,5,Almaly,,2009.0,2026-04-25,0.3117206982543641,middle,large,business
+72,57.9,58.8,1,8,8,Nauryzbay,,2002.0,2026-05-10,0.9846938775510204,last,medium,business
+73,104.6,70.5,5,15,14,Medeu,Capital Park,1989.0,2026-03-06,1.4836879432624113,middle,medium,premium
+74,39.6,64.3,4,17,20,Nauryzbay,Sunrise,2011.0,2026-07-31,0.6158631415241058,middle,medium,business
+75,21.1,44.7,4,3,11,Bostandyk,Green City,2004.0,2026-06-07,0.4720357941834452,middle,small,econom
+76,44.5,43.5,4,7,6,Nauryzbay,Capital Park,1993.0,2026-07-21,1.0229885057471264,middle,small,business
+77,45.8,142.0,4,11,8,Bostandyk,Capital Park,2003.0,2026-01-30,0.3225352112676056,middle,large,business
+78,84.5,79.7,4,16,19,Auezov,Green City,2020.0,2026-08-09,1.0602258469259724,middle,medium,business
+79,73.5,72.9,1,3,16,Nauryzbay,Green City,1997.0,2026-02-25,1.008230452674897,middle,medium,business
+80,97.3,116.2,5,13,6,Bostandyk,Green City,1982.0,2026-05-02,0.8373493975903614,middle,large,business
+81,84.8,94.1,4,6,11,Bostandyk,Comfort,1993.0,2026-04-29,0.9011689691817216,middle,medium,business
+82,57.7,142.0,4,5,9,Bostandyk,,2022.0,2026-08-10,0.4063380281690141,middle,large,business
+83,100.5,122.5,2,11,7,Nauryzbay,Green City,2014.0,2026-03-16,0.8204081632653061,middle,large,premium
+84,32.5,84.9,5,9,18,Nauryzbay,Sunrise,2017.0,2026-03-07,0.3828032979976443,middle,medium,business
+85,17.4,72.0,2,13,14,Nauryzbay,Sunrise,2002.0,2026-04-02,0.24166666666666664,middle,medium,econom
+86,24.5,148.3,1,7,7,Bostandyk,Sunrise,1985.0,2026-04-08,0.16520566419420094,last,large,econom
+87,90.8,114.7,5,17,15,Bostandyk,Sunrise,1992.0,2026-02-19,0.7916303400174367,middle,large,business
+88,63.5,143.9,2,2,11,Bostandyk,Green City,1982.0,2026-02-17,0.4412786657400973,middle,large,business
+89,31.9,39.8,1,18,5,Auezov,Capital Park,1980.0,2026-03-04,0.8015075376884422,middle,small,business
+90,67.6,131.3,4,1,12,Auezov,Sunrise,2017.0,2026-05-07,0.5148514851485148,first,large,business
+91,31.0,104.6,2,15,7,Bostandyk,Sunrise,2022.0,2026-04-03,0.2963671128107075,middle,large,business
+92,88.1,40.2,5,7,8,Auezov,,1987.0,2026-04-16,2.191542288557214,middle,small,business
+93,61.8,98.5,3,8,19,Bostandyk,,2002.0,2026-07-14,0.6274111675126903,middle,medium,business
+94,55.0,110.8,1,1,16,Bostandyk,Comfort,2004.0,2026-03-07,0.4963898916967509,first,large,business
+95,46.7,26.5,5,15,7,Nauryzbay,Capital Park,1983.0,2026-09-03,1.7622641509433963,middle,small,business
+96,81.2,81.8,3,4,18,Medeu,Sunrise,2021.0,2026-07-22,0.9926650366748166,middle,medium,business
+97,53.0,128.2,2,14,14,Bostandyk,,2019.0,2026-02-17,0.4134165366614665,last,large,business
+98,24.2,61.9,4,15,18,Medeu,,2005.0,2026-03-26,0.39095315024232635,middle,medium,econom
+99,27.4,82.3,3,17,16,Auezov,Green City,2011.0,2026-02-19,0.33292831105710813,middle,medium,business
+100,116.0,80.3,1,15,10,Almaly,,1997.0,2026-03-15,1.4445828144458281,middle,medium,premium
+101,110.4,62.7,4,7,13,Bostandyk,Comfort,2015.0,2026-04-09,1.7607655502392345,middle,medium,premium
+102,88.5,139.8,3,15,13,Almaly,Green City,2000.0,2026-02-05,0.6330472103004291,middle,large,business
+103,42.9,122.7,4,17,16,Almaly,Comfort,2024.0,2026-01-04,0.34963325183374083,middle,large,business
+104,116.8,38.8,5,7,8,Bostandyk,Green City,1982.0,2026-04-29,3.0103092783505154,middle,small,premium
+105,96.8,149.6,4,3,10,Auezov,Green City,1987.0,2026-07-09,0.6470588235294118,middle,large,business
+106,90.3,134.9,4,18,8,Nauryzbay,Green City,2023.0,2026-03-23,0.6693847294292068,middle,large,business
+107,62.2,60.5,2,3,9,Almaly,Capital Park,1992.0,2026-08-21,1.028099173553719,middle,medium,business
+108,43.6,129.6,2,12,7,Medeu,Comfort,1993.0,2026-04-10,0.3364197530864198,middle,large,business
+109,25.1,38.3,3,5,5,Bostandyk,Capital Park,2015.0,2026-09-01,0.6553524804177546,last,small,business
+110,109.8,149.9,5,3,20,Almaly,Green City,1988.0,2026-03-05,0.7324883255503669,middle,large,premium
+111,62.9,108.2,3,16,6,Nauryzbay,Green City,2003.0,2026-05-26,0.5813308687615526,middle,large,business
+112,36.2,106.3,2,3,19,Nauryzbay,,1992.0,2026-07-26,0.34054562558795864,middle,large,business
+113,47.1,36.3,4,14,5,Nauryzbay,,1988.0,2026-01-16,1.297520661157025,middle,small,business
+114,75.8,137.1,5,14,17,Almaly,Comfort,2023.0,2026-09-09,0.5528811086797958,middle,large,business
+115,33.6,28.6,5,2,10,Almaly,Green City,1988.0,2026-04-09,1.1748251748251748,middle,small,business
+116,104.9,55.1,2,4,13,Bostandyk,,1984.0,2026-05-15,1.9038112522686026,middle,medium,premium
+117,94.6,42.9,4,16,9,Auezov,Comfort,2010.0,2026-06-19,2.2051282051282053,middle,small,business
+118,90.5,122.1,3,11,12,Medeu,Capital Park,2019.0,2026-06-23,0.7411957411957413,middle,large,business
+119,60.4,49.8,3,3,12,Bostandyk,Green City,1985.0,2026-01-07,1.21285140562249,middle,small,business
+120,80.9,138.8,2,20,13,Bostandyk,,2011.0,2026-08-23,0.5828530259365994,middle,large,business
+121,76.3,107.0,1,6,11,Bostandyk,Capital Park,2004.0,2026-06-18,0.7130841121495327,middle,large,business
+122,83.2,29.5,2,1,13,Almaly,Green City,2017.0,2026-09-27,2.8203389830508474,first,small,business
+123,23.9,25.7,3,19,18,Almaly,Sunrise,1985.0,2026-05-08,0.9299610894941633,middle,small,econom
+124,58.7,31.5,5,1,11,Auezov,Capital Park,2023.0,2026-06-15,1.8634920634920635,first,small,business
+125,19.4,100.7,5,12,10,Auezov,Green City,2007.0,2026-04-30,0.19265143992055608,middle,large,econom
+126,66.9,125.2,1,20,7,Nauryzbay,Sunrise,2002.0,2026-08-29,0.5343450479233227,middle,large,business
+127,49.6,54.8,4,12,10,Medeu,Capital Park,1996.0,2026-08-13,0.905109489051095,middle,medium,business
+128,30.2,131.2,1,12,7,Medeu,,2022.0,2026-09-03,0.2301829268292683,middle,large,business
+129,25.9,32.2,4,8,7,Bostandyk,Green City,2008.0,2026-05-17,0.8043478260869564,middle,small,business
+130,76.7,125.1,2,3,20,Medeu,Capital Park,1985.0,2026-08-02,0.6131095123900879,middle,large,business
+131,32.9,141.0,3,12,6,Nauryzbay,,2021.0,2026-04-07,0.23333333333333334,middle,large,business
+132,112.1,121.5,4,18,12,Almaly,,2015.0,2026-05-05,0.922633744855967,middle,large,premium
+133,76.0,112.3,3,2,18,Medeu,,1993.0,2026-07-25,0.6767586821015138,middle,large,business
+134,51.4,129.7,5,18,20,Almaly,Green City,2004.0,2026-01-22,0.3962991518889746,middle,large,business
+135,77.0,30.0,3,9,7,Auezov,,1997.0,2026-07-11,2.566666666666667,middle,small,business
+136,17.4,50.2,5,11,7,Nauryzbay,,2004.0,2026-01-05,0.34661354581673304,middle,medium,econom
+137,115.6,40.6,4,4,10,Bostandyk,Sunrise,2023.0,2026-06-06,2.8472906403940885,middle,small,premium
+138,65.6,88.1,2,13,13,Bostandyk,Capital Park,2020.0,2026-05-09,0.7446083995459705,last,medium,business
+139,97.2,118.1,4,4,20,Auezov,Capital Park,1989.0,2026-05-07,0.8230313293818798,middle,large,business
+140,23.7,103.8,3,6,8,Medeu,Capital Park,2023.0,2026-05-14,0.22832369942196531,middle,large,econom
+141,66.1,131.4,3,15,7,Bostandyk,Sunrise,1999.0,2026-05-13,0.5030441400304413,middle,large,business
+142,66.5,44.4,1,2,9,Nauryzbay,,2011.0,2026-04-20,1.4977477477477479,middle,small,business
+143,113.5,116.8,1,9,18,Auezov,,2014.0,2026-05-02,0.9717465753424658,middle,large,premium
+144,75.0,49.1,3,12,5,Almaly,Sunrise,2001.0,2026-06-03,1.5274949083503055,middle,small,business
+145,64.7,58.8,1,3,11,Nauryzbay,,2000.0,2026-07-26,1.1003401360544218,middle,medium,business
+146,43.0,113.7,5,6,6,Medeu,Sunrise,2000.0,2026-05-30,0.3781882145998241,last,large,business
+147,49.8,147.5,5,7,7,Auezov,Comfort,2018.0,2026-06-23,0.3376271186440678,last,large,business
+148,69.7,101.4,4,14,19,Almaly,Capital Park,1997.0,2026-08-14,0.6873767258382643,middle,large,business
+149,61.1,31.8,4,20,5,Almaly,Capital Park,1992.0,2026-09-25,1.921383647798742,middle,small,business
+150,17.3,102.0,3,17,10,Auezov,Green City,1996.0,2026-01-30,0.1696078431372549,middle,large,econom
+151,101.8,30.3,1,4,19,Auezov,Comfort,1988.0,2026-07-12,3.3597359735973598,middle,small,premium
+152,109.1,135.5,2,1,14,Bostandyk,Sunrise,2002.0,2026-03-02,0.8051660516605166,first,large,premium
+153,29.7,113.7,3,2,6,Bostandyk,Sunrise,1985.0,2026-02-23,0.26121372031662266,middle,large,business
+154,73.2,46.6,5,12,12,Auezov,,1984.0,2026-08-03,1.5708154506437768,last,small,business
+155,26.4,36.5,2,4,20,Bostandyk,,2012.0,2026-01-19,0.7232876712328766,middle,small,business
+156,85.6,47.9,3,5,11,Nauryzbay,Green City,1983.0,2026-08-17,1.7870563674321502,middle,small,business
+157,44.5,147.5,2,17,13,Nauryzbay,Comfort,2005.0,2026-07-28,0.3016949152542373,middle,large,business
+158,84.2,82.3,1,18,13,Nauryzbay,,2015.0,2026-09-26,1.023086269744836,middle,medium,business
+159,91.3,123.0,1,17,15,Almaly,Green City,2012.0,2026-06-30,0.7422764227642277,middle,large,business
+160,95.7,104.6,2,6,7,Medeu,Capital Park,2000.0,2026-08-24,0.9149139579349905,middle,large,business
+161,26.3,96.6,1,13,18,Almaly,,1988.0,2026-02-02,0.2722567287784679,middle,medium,business
+162,111.2,43.1,1,13,20,Medeu,Sunrise,2021.0,2026-08-29,2.5800464037122968,middle,small,premium
+163,39.2,143.3,2,4,7,Almaly,Comfort,2017.0,2026-02-13,0.2735519888346127,middle,large,business
+164,18.9,62.7,2,12,18,Auezov,Capital Park,2007.0,2026-03-26,0.30143540669856456,middle,medium,econom
+165,73.3,97.3,3,11,18,Almaly,Capital Park,1983.0,2026-02-04,0.7533401849948612,middle,medium,business
+166,53.9,112.5,1,8,16,Almaly,Capital Park,1981.0,2026-04-19,0.4791111111111111,middle,large,business
+167,102.1,106.2,2,16,10,Nauryzbay,,1994.0,2026-07-22,0.9613935969868173,middle,large,premium
+168,99.9,142.6,3,14,12,Nauryzbay,Comfort,1987.0,2026-03-14,0.7005610098176719,middle,large,business
+169,48.3,43.6,5,11,18,Almaly,Sunrise,2018.0,2026-08-10,1.1077981651376145,middle,small,business
+170,115.1,88.5,4,15,7,Medeu,,1989.0,2026-06-13,1.3005649717514123,middle,medium,premium
+171,45.5,75.5,5,16,18,Bostandyk,,1992.0,2026-06-19,0.6026490066225165,middle,medium,business
+172,69.1,84.3,2,12,19,Bostandyk,,2023.0,2026-09-11,0.819691577698695,middle,medium,business
+173,41.9,39.9,3,6,15,Bostandyk,Comfort,2016.0,2026-04-27,1.050125313283208,middle,small,business
+174,113.3,41.8,3,16,10,Bostandyk,Sunrise,1989.0,2026-04-04,2.710526315789474,middle,small,premium
+175,32.3,59.8,5,15,13,Almaly,Comfort,1997.0,2026-09-26,0.540133779264214,middle,medium,business
+176,19.7,63.1,5,20,5,Auezov,Sunrise,2003.0,2026-05-31,0.312202852614897,middle,medium,econom
+177,60.7,78.5,5,3,19,Bostandyk,,2009.0,2026-06-15,0.7732484076433122,middle,medium,business
+178,119.2,101.4,4,9,10,Almaly,Capital Park,2022.0,2026-03-22,1.175542406311637,middle,large,premium
+179,108.6,104.3,3,19,5,Bostandyk,,2019.0,2026-02-28,1.0412272291466922,middle,large,premium
+180,93.6,76.5,3,11,17,Nauryzbay,Capital Park,2023.0,2026-02-15,1.2235294117647058,middle,medium,business
+181,108.5,76.1,5,19,15,Nauryzbay,Sunrise,1981.0,2026-03-02,1.425755584756899,middle,medium,premium
+182,108.8,52.2,2,1,14,Bostandyk,Capital Park,1990.0,2026-02-22,2.0842911877394634,first,medium,premium
+183,69.5,98.5,2,1,5,Bostandyk,Sunrise,2002.0,2026-07-21,0.7055837563451777,first,medium,business
+184,48.2,64.6,5,16,17,Nauryzbay,Comfort,1982.0,2026-01-16,0.7461300309597524,middle,medium,business
+185,96.1,29.5,2,8,15,Nauryzbay,Sunrise,1995.0,2026-06-19,3.2576271186440677,middle,small,business
+186,84.5,77.3,2,11,17,Medeu,,1986.0,2026-09-14,1.0931435963777492,middle,medium,business
+187,54.2,84.3,3,9,18,Medeu,Sunrise,2021.0,2026-07-26,0.6429418742586003,middle,medium,business
+188,24.9,53.2,2,9,8,Medeu,Sunrise,1982.0,2026-04-19,0.4680451127819548,middle,medium,econom
+189,93.4,96.6,5,19,8,Medeu,,1986.0,2026-01-17,0.9668737060041409,middle,medium,business
+190,42.6,95.7,5,2,19,Auezov,Sunrise,1988.0,2026-08-14,0.445141065830721,middle,medium,business
+191,113.4,112.8,2,16,13,Bostandyk,Green City,1986.0,2026-01-01,1.0053191489361704,middle,large,premium
+192,40.3,106.0,3,18,12,Bostandyk,Sunrise,2005.0,2026-07-03,0.380188679245283,middle,large,business
+193,27.9,106.6,5,14,9,Bostandyk,Capital Park,1996.0,2026-07-01,0.26172607879924953,middle,large,business
+194,102.3,64.5,4,8,15,Nauryzbay,Green City,2021.0,2026-02-21,1.586046511627907,middle,medium,premium
+195,31.1,123.4,2,4,17,Nauryzbay,Sunrise,1991.0,2026-07-19,0.2520259319286872,middle,large,business
+196,33.8,93.6,3,14,5,Medeu,Green City,2004.0,2026-02-17,0.3611111111111111,middle,medium,business
+197,77.9,78.9,4,10,13,Almaly,Capital Park,2009.0,2026-03-02,0.9873257287705957,middle,medium,business
+198,106.8,103.3,4,3,20,Auezov,Comfort,2008.0,2026-08-08,1.0338818973862536,middle,large,premium
+199,35.6,70.1,1,8,9,Bostandyk,,2015.0,2026-09-22,0.507845934379458,middle,medium,business
+200,47.6,89.1,2,20,9,Medeu,Sunrise,1989.0,2026-03-13,0.5342312008978676,middle,medium,business
+201,96.6,117.1,5,6,19,Bostandyk,,2002.0,2026-09-06,0.8249359521776259,middle,large,business
+202,117.0,135.8,2,4,5,Almaly,Sunrise,2016.0,2026-09-04,0.861561119293078,middle,large,premium
+203,67.6,140.1,2,14,11,Auezov,Comfort,2018.0,2026-07-27,0.48251249107780153,middle,large,business
+204,30.1,88.0,2,4,12,Medeu,Capital Park,2007.0,2026-02-07,0.34204545454545454,middle,medium,business
+205,16.5,90.0,1,19,17,Medeu,Comfort,2009.0,2026-03-22,0.18333333333333332,middle,medium,econom
+206,39.1,125.0,1,18,7,Almaly,Comfort,2018.0,2026-07-02,0.3128,middle,large,business
+207,28.8,64.3,2,20,11,Bostandyk,Capital Park,2008.0,2026-09-27,0.44790046656298604,middle,medium,business
+208,86.2,129.7,5,19,7,Almaly,Sunrise,2022.0,2026-08-08,0.6646106399383193,middle,large,business
+209,27.8,86.8,1,5,17,Bostandyk,Capital Park,1985.0,2026-04-24,0.32027649769585254,middle,medium,business
+210,68.2,39.5,2,5,15,Auezov,,1995.0,2026-03-05,1.7265822784810128,middle,small,business
+211,87.9,34.0,1,7,12,Bostandyk,,1985.0,2026-09-17,2.585294117647059,middle,small,business
+212,76.0,130.2,3,10,11,Almaly,,1984.0,2026-03-16,0.5837173579109064,middle,large,business
+213,36.0,31.9,2,18,7,Auezov,Green City,2001.0,2026-04-03,1.1285266457680252,middle,small,business
+214,99.4,60.1,4,15,19,Almaly,Capital Park,1990.0,2026-09-18,1.653910149750416,middle,medium,business
+215,90.1,66.8,3,13,15,Bostandyk,Green City,1998.0,2026-06-01,1.348802395209581,middle,medium,business
+216,92.6,46.6,4,18,10,Almaly,Comfort,2002.0,2026-03-13,1.987124463519313,middle,small,business
+217,28.8,64.2,4,13,11,Almaly,,2007.0,2026-01-02,0.4485981308411215,middle,medium,business
+218,28.0,117.8,3,8,16,Auezov,Green City,2022.0,2026-04-27,0.23769100169779286,middle,large,business
+219,112.4,26.8,5,9,16,Medeu,Comfort,2018.0,2026-09-24,4.1940298507462686,middle,small,premium
+220,56.7,128.4,3,11,12,Nauryzbay,,2002.0,2026-04-27,0.441588785046729,middle,large,business
+221,46.6,132.1,5,2,9,Almaly,,1994.0,2026-07-08,0.35276305828917487,middle,large,business
+222,66.3,71.5,5,15,15,Almaly,Sunrise,2014.0,2026-03-10,0.9272727272727272,last,medium,business
+223,84.6,44.2,3,14,15,Bostandyk,Green City,1985.0,2026-07-29,1.9140271493212666,middle,small,business
+224,115.3,100.1,4,15,14,Nauryzbay,,2004.0,2026-07-29,1.1518481518481518,middle,large,premium
+225,45.1,40.0,2,11,6,Nauryzbay,,1999.0,2026-06-14,1.1275,middle,small,business
+226,112.1,70.6,5,16,12,Medeu,Capital Park,1988.0,2026-07-28,1.5878186968838528,middle,medium,premium
+227,17.6,144.8,4,19,14,Bostandyk,,2007.0,2026-06-06,0.12154696132596685,middle,large,econom
+228,73.3,149.4,5,12,20,Almaly,Green City,1994.0,2026-04-13,0.4906291834002677,middle,large,business
+229,81.6,121.5,2,9,13,Almaly,Comfort,1988.0,2026-07-19,0.671604938271605,middle,large,business
+230,26.1,63.9,4,3,10,Almaly,Green City,2009.0,2026-08-14,0.4084507042253521,middle,medium,business
+231,29.7,111.0,3,16,13,Almaly,,1987.0,2026-08-16,0.26756756756756755,middle,large,business
+232,59.0,113.2,1,19,7,Medeu,Comfort,2010.0,2026-02-27,0.5212014134275619,middle,large,business
+233,116.5,73.5,1,14,6,Bostandyk,,1987.0,2026-07-02,1.5850340136054422,middle,medium,premium
+234,77.6,105.1,3,18,15,Medeu,Capital Park,1999.0,2026-01-02,0.7383444338725024,middle,large,business
+235,113.0,26.3,2,18,20,Auezov,Green City,2016.0,2026-06-04,4.2965779467680605,middle,small,premium
+236,99.5,51.1,1,16,18,Auezov,Green City,1990.0,2026-06-04,1.9471624266144814,middle,medium,business
+237,64.1,90.6,3,11,14,Auezov,Sunrise,2014.0,2026-04-09,0.7075055187637969,middle,medium,business
+238,97.4,45.5,4,2,5,Medeu,Comfort,2012.0,2026-09-26,2.1406593406593406,middle,small,business
+239,16.9,45.7,2,1,20,Almaly,Green City,2002.0,2026-08-27,0.3698030634573304,first,small,econom
+240,26.5,129.5,5,5,12,Almaly,,1987.0,2026-01-11,0.20463320463320464,middle,large,business
+241,102.1,148.6,4,9,9,Auezov,Sunrise,2012.0,2026-02-26,0.6870794078061911,last,large,premium
+242,98.7,94.5,3,15,19,Bostandyk,Capital Park,2022.0,2026-02-26,1.0444444444444445,middle,medium,business
+243,39.4,129.9,5,10,16,Auezov,Sunrise,2014.0,2026-08-31,0.3033102386451116,middle,large,business
+244,70.7,148.8,3,1,16,Nauryzbay,Capital Park,1988.0,2026-05-21,0.4751344086021505,first,large,business
+245,78.6,42.7,1,5,9,Auezov,Capital Park,2016.0,2026-07-16,1.8407494145199061,middle,small,business
+246,106.1,81.0,1,20,20,Bostandyk,,1984.0,2026-08-07,1.3098765432098765,last,medium,premium
+247,78.3,74.1,5,20,12,Bostandyk,,2006.0,2026-07-27,1.05668016194332,middle,medium,business
+248,58.3,35.0,5,8,13,Nauryzbay,Comfort,2002.0,2026-01-25,1.6657142857142857,middle,small,business
+249,54.3,119.4,4,17,17,Bostandyk,,2003.0,2026-02-07,0.45477386934673364,last,large,business
+250,59.7,79.2,1,15,15,Auezov,Sunrise,2003.0,2026-04-17,0.7537878787878788,last,medium,business
+251,83.5,83.7,2,19,7,Auezov,,1981.0,2026-04-02,0.997610513739546,middle,medium,business
+252,106.1,43.8,1,18,9,Nauryzbay,,2002.0,2026-07-21,2.422374429223744,middle,small,premium
+253,62.7,47.6,1,13,10,Nauryzbay,,2022.0,2026-02-12,1.3172268907563025,middle,small,business
+254,41.0,138.4,2,8,20,Auezov,,1999.0,2026-04-11,0.29624277456647397,middle,large,business
+255,39.8,30.6,3,13,16,Bostandyk,,1992.0,2026-03-05,1.3006535947712417,middle,small,business
+256,93.3,54.1,1,7,10,Bostandyk,Capital Park,2024.0,2026-02-20,1.7245841035120146,middle,medium,business
+257,100.7,61.5,5,7,16,Auezov,,1984.0,2026-02-16,1.6373983739837399,middle,medium,premium
+258,26.1,86.3,3,13,16,Bostandyk,Sunrise,2001.0,2026-02-22,0.30243337195828507,middle,medium,business
+259,22.0,98.3,2,12,11,Nauryzbay,Comfort,2003.0,2026-06-02,0.22380467955239064,middle,medium,econom
+260,77.4,86.7,3,12,11,Bostandyk,Green City,2001.0,2026-04-21,0.8927335640138409,middle,medium,business
+261,30.3,35.5,4,8,19,Nauryzbay,Capital Park,2021.0,2026-04-28,0.8535211267605634,middle,small,business
+262,101.6,55.5,2,9,13,Nauryzbay,Comfort,1998.0,2026-05-10,1.8306306306306306,middle,medium,premium
+263,47.6,130.4,1,1,7,Medeu,,2023.0,2026-07-20,0.36503067484662577,first,large,business
+264,30.1,104.7,1,13,16,Almaly,Capital Park,1983.0,2026-08-21,0.2874880611270296,middle,large,business
+265,111.7,106.1,5,12,14,Nauryzbay,Sunrise,2013.0,2026-05-23,1.052780395852969,middle,large,premium
+266,32.4,108.8,1,19,13,Almaly,Capital Park,2006.0,2026-06-23,0.2977941176470588,middle,large,business
+267,44.9,120.4,4,11,16,Bostandyk,Sunrise,1990.0,2026-07-19,0.3729235880398671,middle,large,business
+268,31.1,32.3,2,10,19,Almaly,,1990.0,2026-07-06,0.9628482972136224,middle,small,business
+269,27.1,70.8,4,2,10,Almaly,Green City,2012.0,2026-02-06,0.38276836158192096,middle,medium,business
+270,17.2,92.4,1,4,11,Almaly,,2008.0,2026-09-23,0.18614718614718612,middle,medium,econom
+271,20.8,67.3,5,7,8,Almaly,Comfort,2007.0,2026-02-14,0.30906389301634474,middle,medium,econom
+272,33.3,130.6,4,8,15,Medeu,,1982.0,2026-04-22,0.2549770290964778,middle,large,business
+273,20.6,85.3,3,8,11,Almaly,,2006.0,2026-06-26,0.2415005861664713,middle,medium,econom
+274,77.1,121.1,2,8,10,Bostandyk,Green City,2024.0,2026-04-19,0.6366639141205614,middle,large,business
+275,86.5,131.5,5,16,16,Nauryzbay,,1980.0,2026-03-07,0.6577946768060836,last,large,business
+276,56.3,88.1,2,3,11,Medeu,Capital Park,2001.0,2026-09-07,0.6390465380249716,middle,medium,business
+277,48.4,138.7,3,7,12,Medeu,,2002.0,2026-01-20,0.3489545782263879,middle,large,business
+278,68.0,98.4,2,4,12,Bostandyk,,2020.0,2026-03-08,0.6910569105691057,middle,medium,business
+279,106.9,131.3,2,7,9,Bostandyk,Capital Park,1992.0,2026-09-26,0.8141660319878141,middle,large,premium
+280,104.4,67.6,3,14,7,Nauryzbay,Sunrise,2001.0,2026-07-17,1.5443786982248522,middle,medium,premium
+281,19.6,87.4,1,1,18,Almaly,Green City,2012.0,2026-01-24,0.2242562929061785,first,medium,econom
+282,34.1,91.4,1,7,6,Auezov,Green City,1982.0,2026-07-23,0.3730853391684901,middle,medium,business
+283,39.9,38.1,2,1,10,Medeu,Sunrise,2016.0,2026-09-19,1.047244094488189,first,small,business
+284,41.2,74.8,1,20,15,Bostandyk,,2002.0,2026-01-27,0.5508021390374332,middle,medium,business
+285,75.0,139.7,3,15,7,Almaly,Capital Park,2012.0,2026-04-22,0.5368647100930566,middle,large,business
+286,58.7,103.9,5,5,15,Medeu,Capital Park,2009.0,2026-05-07,0.5649663137632339,middle,large,business
+287,20.2,47.2,1,4,16,Medeu,Sunrise,2013.0,2026-02-05,0.4279661016949152,middle,small,econom
+288,54.2,67.4,1,2,15,Medeu,Capital Park,2015.0,2026-02-24,0.8041543026706232,middle,medium,business
+289,70.0,49.0,1,10,9,Medeu,Comfort,2020.0,2026-02-16,1.4285714285714286,middle,small,business
+290,25.7,28.1,3,16,5,Medeu,,1999.0,2026-02-20,0.9145907473309608,middle,small,business
+291,102.5,140.9,2,12,19,Auezov,Comfort,2000.0,2026-04-19,0.7274662881476224,middle,large,premium
+292,20.5,81.0,3,18,10,Almaly,Comfort,2008.0,2026-05-06,0.25308641975308643,middle,medium,econom
+293,112.1,63.4,1,7,17,Nauryzbay,,1988.0,2026-03-06,1.7681388012618295,middle,medium,premium
+294,25.4,99.8,2,6,8,Bostandyk,Capital Park,2018.0,2026-03-20,0.2545090180360721,middle,medium,business
+295,103.6,25.9,3,10,7,Auezov,,2002.0,2026-02-21,4.0,middle,small,premium
+296,109.8,59.8,3,5,17,Nauryzbay,Sunrise,2008.0,2026-08-03,1.8361204013377928,middle,medium,premium
+297,117.9,112.9,3,20,20,Medeu,Green City,1993.0,2026-02-27,1.0442869796279894,last,large,premium
+298,99.2,104.2,4,4,18,Bostandyk,Capital Park,1995.0,2026-09-03,0.9520153550863724,middle,large,business
+299,96.8,147.7,3,10,17,Bostandyk,Green City,1999.0,2026-05-26,0.6553825321597834,middle,large,business
+300,82.5,102.5,5,11,8,Nauryzbay,Green City,2009.0,2026-08-05,0.8048780487804879,middle,large,business
